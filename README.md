@@ -1,5 +1,5 @@
 # mis548-machine-translation
-This is my final project for MIS548 (Deep Learning - Spring 2025). My task is machine translation: translating legal corpus from English to French.
+This is my final project for MIS548 (Deep Learning - Spring 2025). My task is machine translation: translating legal text documents from English to French.
 
 ## Model Weights
 Download the model weights from [Google Drive](https://drive.google.com/uc?id=1JtQIjmCw7nr9UD_8FXOsvVPwkKBDZLts&export=download).
